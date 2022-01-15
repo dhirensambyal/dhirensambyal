@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirensambyal&" alt="dhirensambyal" /></p>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/dhirensambyal/count.svg)
 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
