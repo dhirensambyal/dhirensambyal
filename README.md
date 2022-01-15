@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dhirensambyal/dhirensambyal/blob/main/download.jpg)align="center](https://dhirensambyal.github.io)
+[![MasterHead](https://github.com/dhirensambyal/dhirensambyal/blob/main/download.jpg)align="center"](https://dhirensambyal.github.io)
 
 ### Hi there 👋
 
