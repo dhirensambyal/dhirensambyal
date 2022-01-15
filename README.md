@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi "coders++" 👋, I'm Dhiren Sambyal</h1>
+<h1 align="center">Hi "Coders++" 👋, I'm Dhiren Sambyal</h1>
 <h3 align="center">A passionate Software Developer working at ICERTIS (USA)</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirensambyal&label=Profile%20views&color=0e75b6&style=flat" alt="dhirensambyal" /> </p>
