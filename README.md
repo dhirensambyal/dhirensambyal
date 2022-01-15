@@ -52,3 +52,6 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
+##Thanks for visiting
+
+##Until next time keep smiling, keep hustling
