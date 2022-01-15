@@ -1,5 +1,6 @@
-[![MasterHead](https://github.com/dhirensambyal/dhirensambyal/blob/main/download%20(1).jpg)](https://dhirensambyal.github.io)
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+[![MasterHead](https://github.com/dhirensambyal/dhirensambyal/blob/main/download%20(1).jpg)](https://dhirensambyal.github.io)
+
 
 ### Hi there 👋
 
