@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **dhirensambyal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xYuo7xuBCwrVOIvMurDcCJdfQ-WSqXtG/view?usp=sharing](https://drive.google.com/file/d/1xYuo7xuBCwrVOIvMurDcCJdfQ-WSqXtG/view?usp=sharing)
-
 - ⚡ Fact **Believe in yourself**
 
 ### Blogs posts
